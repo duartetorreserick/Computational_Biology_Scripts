@@ -17,7 +17,7 @@ module load kmergenie/1.7051
 kmergenie $INPUT/ILLUMINA_DATAE.Novo_Trimmed_V2_1P.fastq --diploid
 kmergenie $INPUT/ILLUMINA_DATAE.Novo_Trimmed_V2_2P.fastq --diploid
 
-echo "listopapi" 
+echo "done" 
 
 
 
